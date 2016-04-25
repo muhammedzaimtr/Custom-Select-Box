@@ -4,7 +4,7 @@ Custom-Select-Box --- Bunlar Hep Sıkıntıdan :)
 
 #Kullanımı
 
-![Image](http://muhammedzaim.com/upload/u/963717226.png )
+![Image](https://raw.githubusercontent.com/muhammedzaimtr/Custom-Select-Box/master/image/1.png)
 
 ```html
       <div class="select-style">
