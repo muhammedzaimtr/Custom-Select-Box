@@ -7,7 +7,7 @@ Custom-Select-Box --- Bunlar Hep Sıkıntıdan :)
 ![Image](https://raw.githubusercontent.com/muhammedzaimtr/Custom-Select-Box/master/image/1.png)
 
 ```html
-      <div class="select-style">
+      <div class="select">
       <select>
         <option value="volvo">HTML5</option>
         <option value="saab">CSS3</option>
