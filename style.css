@@ -1,4 +1,4 @@
-.select-style {
+.select {
     border: 1px solid #ccc;
     width: 120px;
     border-radius: 5px;
@@ -6,7 +6,7 @@
     background: #fafafa url("http://muhammedzaim.com/upload/u/869680428.gif") no-repeat 92% 30%;
 }
 
-.select-style select {
+.select select {
     padding: 5px 10px;
     width: 130%;
     border: 0;
@@ -14,6 +14,6 @@
     -webkit-appearance: none;
 }
 
-.select-style select:focus {
+.select select:focus {
     outline: none;
 }
